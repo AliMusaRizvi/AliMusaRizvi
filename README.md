@@ -10,9 +10,9 @@ I'm currently a Bachelor of Science in Computer Science (BSCS) student at FAST N
 - ⚡ Fun fact: I enjoy solving complex problems and creating innovative solutions.
 
 ## Skills and Technologies
-- **Languages**: C++, C, C#, Python, SQL, HTML, CSS
-- **Frameworks**: Django
-- **Tools and Technologies**: Databases, Web Development, REST API
+- **Languages**: C++, C, C#, Python, 
+- **Frameworks**: Machine Learning
+- **Tools and Technologies**: CNN, ANN
 
 ## Projects
 Here are some of the projects I’ve worked on:
@@ -28,7 +28,7 @@ I have hands-on experience in software development through various freelance pro
 ## Education
 - **Bachelor of Science in Computer Science (BSCS)**
   - FAST National University of Computing and Emerging Sciences
-  - Currently in my 5th semester
+  - Currently in my 7th semester
 
 ## Contact Information
 - Email: alii.musarizvi@gmail.com
@@ -38,10 +38,9 @@ I have hands-on experience in software development through various freelance pro
 - Machine Learning and Artificial Intelligence
 - Cybersecurity and Ethical Hacking
 - Data Science and Data Analysis
-- Web Development and Databases
 - REST API Development
 - Table Tennis
-- Gym
+- Fitness
 
 ## GitHub Stats
 ![Ali Musa Rizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMusaRizvi&show_icons=true)
